@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86c1ec2e-8362-4249-9ec6-81624290f853" name="Changes" comment="tsd dop-2 fix bags">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_05_04_2023_17_53__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_05_04_2023_17_53__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-    </list>
+    <list default="true" id="86c1ec2e-8362-4249-9ec6-81624290f853" name="Changes" comment=" fix bags" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +28,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;X:/it-incubator/js-native&quot;,
+    &quot;last_opened_file_path&quot;: &quot;X:/it-incubator/home-work-tasks&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
@@ -68,7 +64,7 @@
       <workItem from="1680448779526" duration="274000" />
       <workItem from="1680449057627" duration="172000" />
       <workItem from="1680449232690" duration="79000" />
-      <workItem from="1680873431973" duration="1155000" />
+      <workItem from="1680873431973" duration="1367000" />
     </task>
     <task id="LOCAL-00001" summary="replays src">
       <created>1680449569849</created>
@@ -84,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680706559014</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=" fix bags">
+      <created>1680874774583</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680874774583</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +108,7 @@
     <MESSAGE value="add comp.tsx" />
     <MESSAGE value="replays src" />
     <MESSAGE value="tsd dop-2 start" />
-    <option name="LAST_COMMIT_MESSAGE" value="tsd dop-2 start" />
+    <MESSAGE value=" fix bags" />
+    <option name="LAST_COMMIT_MESSAGE" value=" fix bags" />
   </component>
 </project>
